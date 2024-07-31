@@ -1,0 +1,33 @@
+C:\Users\Admin\Desktop\WindowsFormsApp1\BUS\bin\Debug\BUS.dll
+C:\Users\Admin\Desktop\WindowsFormsApp1\BUS\bin\Debug\BUS.pdb
+C:\Users\Admin\Desktop\WindowsFormsApp1\BUS\bin\Debug\DAO.dll
+C:\Users\Admin\Desktop\WindowsFormsApp1\BUS\bin\Debug\DAO.pdb
+C:\Users\Admin\Desktop\WindowsFormsApp1\BUS\obj\Debug\BUS.csprojAssemblyReference.cache
+C:\Users\Admin\Desktop\WindowsFormsApp1\BUS\obj\Debug\BUS.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\WindowsFormsApp1\BUS\obj\Debug\BUS.csproj.CopyComplete
+C:\Users\Admin\Desktop\WindowsFormsApp1\BUS\obj\Debug\BUS.dll
+C:\Users\Admin\Desktop\WindowsFormsApp1\BUS\obj\Debug\BUS.pdb
+C:\Users\Admin\Desktop\WindowsFormsApp1\BUS\bin\Debug\DTO.dll
+C:\Users\Admin\Desktop\WindowsFormsApp1\BUS\bin\Debug\DTO.pdb
+D:\4 năm Đh\Học Kì V\WindowsFormsApp1\WindowsFormsApp1\BUS\bin\Debug\BUS.dll
+D:\4 năm Đh\Học Kì V\WindowsFormsApp1\WindowsFormsApp1\BUS\bin\Debug\BUS.pdb
+D:\4 năm Đh\Học Kì V\WindowsFormsApp1\WindowsFormsApp1\BUS\bin\Debug\DAO.dll
+D:\4 năm Đh\Học Kì V\WindowsFormsApp1\WindowsFormsApp1\BUS\bin\Debug\DTO.dll
+D:\4 năm Đh\Học Kì V\WindowsFormsApp1\WindowsFormsApp1\BUS\bin\Debug\DAO.pdb
+D:\4 năm Đh\Học Kì V\WindowsFormsApp1\WindowsFormsApp1\BUS\bin\Debug\DTO.pdb
+D:\4 năm Đh\Học Kì V\WindowsFormsApp1\WindowsFormsApp1\BUS\obj\Debug\BUS.csproj.AssemblyReference.cache
+D:\4 năm Đh\Học Kì V\WindowsFormsApp1\WindowsFormsApp1\BUS\obj\Debug\BUS.csproj.CoreCompileInputs.cache
+D:\4 năm Đh\Học Kì V\WindowsFormsApp1\WindowsFormsApp1\BUS\obj\Debug\BUS.csproj.CopyComplete
+D:\4 năm Đh\Học Kì V\WindowsFormsApp1\WindowsFormsApp1\BUS\obj\Debug\BUS.dll
+D:\4 năm Đh\Học Kì V\WindowsFormsApp1\WindowsFormsApp1\BUS\obj\Debug\BUS.pdb
+D:\4 năm Đh\Học Kì V\NHOM15_QLNHAHANG\BUS\bin\Debug\BUS.dll
+D:\4 năm Đh\Học Kì V\NHOM15_QLNHAHANG\BUS\bin\Debug\BUS.pdb
+D:\4 năm Đh\Học Kì V\NHOM15_QLNHAHANG\BUS\bin\Debug\DAO.dll
+D:\4 năm Đh\Học Kì V\NHOM15_QLNHAHANG\BUS\bin\Debug\DTO.dll
+D:\4 năm Đh\Học Kì V\NHOM15_QLNHAHANG\BUS\bin\Debug\DAO.pdb
+D:\4 năm Đh\Học Kì V\NHOM15_QLNHAHANG\BUS\bin\Debug\DTO.pdb
+D:\4 năm Đh\Học Kì V\NHOM15_QLNHAHANG\BUS\obj\Debug\BUS.csproj.AssemblyReference.cache
+D:\4 năm Đh\Học Kì V\NHOM15_QLNHAHANG\BUS\obj\Debug\BUS.csproj.CoreCompileInputs.cache
+D:\4 năm Đh\Học Kì V\NHOM15_QLNHAHANG\BUS\obj\Debug\BUS.csproj.CopyComplete
+D:\4 năm Đh\Học Kì V\NHOM15_QLNHAHANG\BUS\obj\Debug\BUS.dll
+D:\4 năm Đh\Học Kì V\NHOM15_QLNHAHANG\BUS\obj\Debug\BUS.pdb

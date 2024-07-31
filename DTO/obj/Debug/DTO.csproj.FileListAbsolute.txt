@@ -1,0 +1,18 @@
+C:\Users\Admin\Desktop\WindowsFormsApp1\DTO\bin\Debug\DTO.dll
+C:\Users\Admin\Desktop\WindowsFormsApp1\DTO\bin\Debug\DTO.pdb
+C:\Users\Admin\Desktop\WindowsFormsApp1\DTO\obj\Debug\DTO.csprojAssemblyReference.cache
+C:\Users\Admin\Desktop\WindowsFormsApp1\DTO\obj\Debug\DTO.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\WindowsFormsApp1\DTO\obj\Debug\DTO.dll
+C:\Users\Admin\Desktop\WindowsFormsApp1\DTO\obj\Debug\DTO.pdb
+D:\4 năm Đh\Học Kì V\WindowsFormsApp1\WindowsFormsApp1\DTO\bin\Debug\DTO.dll
+D:\4 năm Đh\Học Kì V\WindowsFormsApp1\WindowsFormsApp1\DTO\bin\Debug\DTO.pdb
+D:\4 năm Đh\Học Kì V\WindowsFormsApp1\WindowsFormsApp1\DTO\obj\Debug\DTO.csproj.AssemblyReference.cache
+D:\4 năm Đh\Học Kì V\WindowsFormsApp1\WindowsFormsApp1\DTO\obj\Debug\DTO.csproj.CoreCompileInputs.cache
+D:\4 năm Đh\Học Kì V\WindowsFormsApp1\WindowsFormsApp1\DTO\obj\Debug\DTO.dll
+D:\4 năm Đh\Học Kì V\WindowsFormsApp1\WindowsFormsApp1\DTO\obj\Debug\DTO.pdb
+D:\4 năm Đh\Học Kì V\NHOM15_QLNHAHANG\DTO\bin\Debug\DTO.dll
+D:\4 năm Đh\Học Kì V\NHOM15_QLNHAHANG\DTO\bin\Debug\DTO.pdb
+D:\4 năm Đh\Học Kì V\NHOM15_QLNHAHANG\DTO\obj\Debug\DTO.csproj.AssemblyReference.cache
+D:\4 năm Đh\Học Kì V\NHOM15_QLNHAHANG\DTO\obj\Debug\DTO.csproj.CoreCompileInputs.cache
+D:\4 năm Đh\Học Kì V\NHOM15_QLNHAHANG\DTO\obj\Debug\DTO.dll
+D:\4 năm Đh\Học Kì V\NHOM15_QLNHAHANG\DTO\obj\Debug\DTO.pdb
